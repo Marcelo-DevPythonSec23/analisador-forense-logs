@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🤖 Bot de Monitoramento Telegram
 
 Um bot Telegram robusto para receber, processar e gerenciar arquivos de log e monitoramento em tempo real.
@@ -434,6 +434,4 @@ Este projeto está disponível para uso livre.
 **Última atualização**: 28 de maio de 2026  
 **Status**: ✅ Operacional e testado
 =======
-# analisador-forense-logs
-Mini-SIEM desenvolvido em Python com integração ao Telegram para análise forense de logs, correlação de eventos, geração de alertas e relatórios CTI baseados em MITRE ATT&amp;CK. Em desenvolvimento contínuo com foco em automação de segurança.
 >>>>>>> 7483afd93e999e012c85b9be8e60b1ab1f75653b
